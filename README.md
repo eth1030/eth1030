@@ -1,5 +1,7 @@
-### Hi there 👋
-I am Emika. I am a second year Computer Engineering Student at Boston University.
+### Hi 
+I am Emika. 
+
+I am a second year Computer Engineering Student at Boston University.
 
 - 🔭 I’m currently working on a research project called ai4cloudops!
 - 🌱 I’m currently learning about Operating Systems!
